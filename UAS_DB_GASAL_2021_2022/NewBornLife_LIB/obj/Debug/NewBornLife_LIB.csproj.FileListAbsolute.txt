@@ -1,0 +1,58 @@
+D:\UBAYA\Perkuliahan\Database\2021_Gasal\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\NewBornLife_LIB.dll
+D:\UBAYA\Perkuliahan\Database\2021_Gasal\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\NewBornLife_LIB.pdb
+D:\UBAYA\Perkuliahan\Database\2021_Gasal\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\MySql.Data.dll
+D:\UBAYA\Perkuliahan\Database\2021_Gasal\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\Google.Protobuf.dll
+D:\UBAYA\Perkuliahan\Database\2021_Gasal\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\Zstandard.Net.dll
+D:\UBAYA\Perkuliahan\Database\2021_Gasal\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\UBAYA\Perkuliahan\Database\2021_Gasal\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\BouncyCastle.Crypto.dll
+D:\UBAYA\Perkuliahan\Database\2021_Gasal\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\Ubiety.Dns.Core.dll
+D:\UBAYA\Perkuliahan\Database\2021_Gasal\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\System.Memory.dll
+D:\UBAYA\Perkuliahan\Database\2021_Gasal\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\UBAYA\Perkuliahan\Database\2021_Gasal\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\System.Buffers.dll
+D:\UBAYA\Perkuliahan\Database\2021_Gasal\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\K4os.Compression.LZ4.dll
+D:\UBAYA\Perkuliahan\Database\2021_Gasal\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\K4os.Hash.xxHash.dll
+D:\UBAYA\Perkuliahan\Database\2021_Gasal\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\System.Numerics.Vectors.dll
+D:\UBAYA\Perkuliahan\Database\2021_Gasal\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\MySql.Data.xml
+D:\UBAYA\Perkuliahan\Database\2021_Gasal\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\obj\Debug\NewBornLife_LIB.csprojAssemblyReference.cache
+D:\UBAYA\Perkuliahan\Database\2021_Gasal\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\obj\Debug\NewBornLife_LIB.csproj.CopyComplete
+D:\UBAYA\Perkuliahan\Database\2021_Gasal\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\obj\Debug\NewBornLife_LIB.dll
+D:\UBAYA\Perkuliahan\Database\2021_Gasal\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\obj\Debug\NewBornLife_LIB.pdb
+D:\miftah\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\NewBornLife_LIB.dll
+D:\miftah\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\NewBornLife_LIB.pdb
+D:\miftah\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\Google.Protobuf.dll
+D:\miftah\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\Zstandard.Net.dll
+D:\miftah\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\miftah\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\BouncyCastle.Crypto.dll
+D:\miftah\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\Ubiety.Dns.Core.dll
+D:\miftah\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\System.Memory.dll
+D:\miftah\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\miftah\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\System.Buffers.dll
+D:\miftah\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\K4os.Compression.LZ4.dll
+D:\miftah\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\K4os.Hash.xxHash.dll
+D:\miftah\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\System.Numerics.Vectors.dll
+D:\miftah\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\MySql.Data.xml
+D:\miftah\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\obj\Debug\NewBornLife_LIB.csprojAssemblyReference.cache
+D:\miftah\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\obj\Debug\NewBornLife_LIB.csproj.CoreCompileInputs.cache
+D:\miftah\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\obj\Debug\NewBornLife_LIB.csproj.CopyComplete
+D:\miftah\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\obj\Debug\NewBornLife_LIB.dll
+D:\miftah\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\obj\Debug\NewBornLife_LIB.pdb
+E:\College\Class Semester 3\Database A\UAS\UAS-DB-GASAL_Start\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\obj\Debug\NewBornLife_LIB.csproj.AssemblyReference.cache
+E:\College\Class Semester 3\Database A\UAS\UAS-DB-GASAL_Start\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\obj\Debug\NewBornLife_LIB.csproj.CoreCompileInputs.cache
+E:\College\Class Semester 3\Database A\UAS\UAS-DB-GASAL_Start\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\obj\Debug\NewBornLife_LIB.dll
+E:\College\Class Semester 3\Database A\UAS\UAS-DB-GASAL_Start\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\obj\Debug\NewBornLife_LIB.pdb
+E:\College\Class Semester 3\Database A\UAS\UAS-DB-GASAL_Start\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\NewBornLife_LIB.dll
+E:\College\Class Semester 3\Database A\UAS\UAS-DB-GASAL_Start\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\NewBornLife_LIB.pdb
+E:\College\Class Semester 3\Database A\UAS\UAS-DB-GASAL_Start\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\MySql.Data.dll
+E:\College\Class Semester 3\Database A\UAS\UAS-DB-GASAL_Start\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\Google.Protobuf.dll
+E:\College\Class Semester 3\Database A\UAS\UAS-DB-GASAL_Start\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\Zstandard.Net.dll
+E:\College\Class Semester 3\Database A\UAS\UAS-DB-GASAL_Start\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\College\Class Semester 3\Database A\UAS\UAS-DB-GASAL_Start\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\BouncyCastle.Crypto.dll
+E:\College\Class Semester 3\Database A\UAS\UAS-DB-GASAL_Start\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\Ubiety.Dns.Core.dll
+E:\College\Class Semester 3\Database A\UAS\UAS-DB-GASAL_Start\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\System.Memory.dll
+E:\College\Class Semester 3\Database A\UAS\UAS-DB-GASAL_Start\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\College\Class Semester 3\Database A\UAS\UAS-DB-GASAL_Start\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\System.Buffers.dll
+E:\College\Class Semester 3\Database A\UAS\UAS-DB-GASAL_Start\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\K4os.Compression.LZ4.dll
+E:\College\Class Semester 3\Database A\UAS\UAS-DB-GASAL_Start\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\K4os.Hash.xxHash.dll
+E:\College\Class Semester 3\Database A\UAS\UAS-DB-GASAL_Start\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\System.Numerics.Vectors.dll
+E:\College\Class Semester 3\Database A\UAS\UAS-DB-GASAL_Start\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\bin\Debug\MySql.Data.xml
+E:\College\Class Semester 3\Database A\UAS\UAS-DB-GASAL_Start\UAS_DB_GASAL_2021_2022\NewBornLife_LIB\obj\Debug\NewBornLife_LIB.csproj.CopyComplete
